@@ -1,4 +1,4 @@
-Bluelavasystems XT-IDE Deluxe ReadMe
+Blue lava systems XT-IDE Deluxe ReadMe
 ----
 
 Bootable 8-bit ISA CF+IDE interface
