@@ -1,4 +1,4 @@
-Monotech XT-IDE Deluxe ReadMe
+Bluelavasystems XT-IDE Deluxe ReadMe
 ----
 
 Bootable 8-bit ISA CF+IDE interface
